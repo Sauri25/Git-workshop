@@ -1,2 +1,3 @@
-print("Shyam.p ok many
-print("ADw")       sala
+print("Shyam.p ok many")
+print("ADw")  
+print("ARM MRA BHAIYOO")
